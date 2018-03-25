@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  Transformer function to transform log data as provided by winston into
  a message structure which is more appropriate for indexing in ES.
